@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeviceDictionary</key>
+	<dict>
+		<key>phone</key>
+		<string>iPhone 6s</string>
+	</dict>
+	<key>ToolString</key>
+	<string>Xcode</string>
+	<key>RootPartArray</key>
+	<array>
+		<string>Dhruv</string>
+		<string>Partik</string>
+		<string>Ravi</string>
+		<string>Ayush</string>
+		<string>Niv</string>
+		<string>Uday</string>
+		<string>Vasu</string>
+		<string>Hardik</string>
+		<string>Shyam</string>
+		<string>Parth</string>
+		<string>Prince</string>
+		<string>Darshit</string>
+		<string>Yug</string>
+	</array>
+</dict>
+</plist>
